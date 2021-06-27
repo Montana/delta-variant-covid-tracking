@@ -169,7 +169,7 @@ Data from `Helix2` on nearly 20,000 samples sequenced since April suggest that t
 
 _Dist_ per country. (Delta Variant). 
 
-## The vaccine chart 
+## Vaccinations in the United States via mRNA options
 
 ![image](https://user-images.githubusercontent.com/20936398/123537763-f0c18000-d6e5-11eb-981f-9f3965afec74.png)
 
