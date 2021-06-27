@@ -64,6 +64,10 @@ These sequences therefore have mutations in the N-terminal domain, receptor bind
 
 _Upwards trend in Israel_ 
 
+<img width="243" alt="missouri" src="https://user-images.githubusercontent.com/20936398/123537553-dd61e500-d6e4-11eb-97bf-968f269dbd2d.png">
+
+_Upwards trend in Missouri (USA)_
+
 ## Sub lineages of Delta 
 
 The sub-lineages contained lineage defining spike mutations: ```B.1.617.1, S: T95I, G142D, E154K, L452R,
