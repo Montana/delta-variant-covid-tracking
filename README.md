@@ -173,4 +173,4 @@ _Dist_ per country. (Delta Variant).
 
 ![image](https://user-images.githubusercontent.com/20936398/123537763-f0c18000-d6e5-11eb-981f-9f3965afec74.png)
 
-From this information from the CDC you can see we will not be making President Biden's July 4th vision of 70% of the population in the United States vaccinated.
+From this information from the CDC you can see we will not be making President Biden's July 4th vision of 70% of the population in the United States vaccinated. Which gives COVID-19 more time to evolve, we in turn then have more variants.
