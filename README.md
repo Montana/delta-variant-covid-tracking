@@ -1,5 +1,9 @@
 # COVID-19: The Delta Variant
 
+## The rise of Delta all around the world (Compiled by Montana Mendy)
+
+![d41586-021-01506-w_19225050](https://user-images.githubusercontent.com/20936398/123537203-15682880-d6e3-11eb-9b7a-1359d574f8eb.jpeg)
+
 
 ["These results identify B.1.617.2 as an immune evasion variant with increased capacity to enter and fuse lung cells."](https://www.biorxiv.org/content/10.1101/2021.06.23.449568v1)
 
