@@ -194,4 +194,6 @@ from vaccinated individuals;
 Delta is predominant and all analyses find that it has a very substantial growth advantage. The observed high growth rate is most likely to
 be due to a combination of place based context, transmissibility and immune escape. 
 
+<img width="711" alt="Screen Shot 2021-06-27 at 1 46 11 AM" src="https://user-images.githubusercontent.com/20936398/123538374-7e529f00-d6e9-11eb-8b4c-474a0952f1e7.png">
+
 _Source_: [UK Government](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/991135/3_June_2021_Risk_assessment_for_SARS-CoV-2_variant_DELTA.pdf)
