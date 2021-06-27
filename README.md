@@ -176,3 +176,15 @@ _Dist_ per country. (Delta Variant).
 From this information from the CDC you can see we will not be making President Biden's July 4th vision of 70% of the population in the United States vaccinated. Which gives COVID-19 more time to evolve, which in turn gives us more variants. 
 
 _This chart is counting Tozinameran (BioNTech/Pfizer) and Moderna, also known as mRNA-1273 and Spikevax._
+
+## Garnering more knowledge on Delta 
+
+Key information that will improve the understanding and characterisation of the risk posed by Delta VOC includes:
+
+* Further epidemiological characterisation of Delta VOC, particularly for non-travel related cases;
+* Improved transmissibility estimates, including information on the mechanism for increased transmissibility
+such as differences in viral load, viral shedding or duration of infection;
+* Clinical characterization of cases;
+* In vitro studies of neutralisation to assess immune escape potential using convalescent serum and serum
+from vaccinated individuals;
+* Investigation and monitoring of reinfection and breakthrough infections.
