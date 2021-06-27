@@ -4,6 +4,54 @@
 
 _Upwards trend in Israel_ 
 
+## Common amino acids found
+
+The following (amino acid) mutations are common to this lineage:
+
+```
+N:M1X (90.79%)
+N:D63G (81.58%)
+N:R203M (99.42%)
+N:G215C (48.25%)
+N:D377Y (98.03%)
+ORF1a:K261N (23.32%)
+ORF1a:P309L (26.17%)
+ORF1a:A1306S (48.61%)
+ORF1a:P1640L (50.58%)
+ORF1a:P2046L (47.81%)
+ORF1a:P2287S (48.25%)
+ORF1a:V2930L (48.25%)
+ORF1a:A3209V (47.73%)
+ORF1a:T3255I (48.32%)
+ORF1a:T3646A (48.25%)
+ORF1a:V3718A (47.73%)
+ORF1a:T3750I (22.66%)
+ORF1b:P314L (99.71%)
+ORF1b:G662S (96.20%)
+ORF1b:P1000L (95.91%)
+ORF1b:A1918V (48.25%)
+ORF3a:S26L (98.46%)
+ORF7a:V82A (96.56%)
+ORF7a:L116F (22.08%)
+ORF7a:T120I (97.95%)
+ORF7b:T40I (48.46%)
+ORF8:D119- (88.74%)
+ORF8:F120- (88.74%)
+ORF9b:T60A (81.58%)
+S:T19R (94.74%)
+S:G142D (45.10%)
+S:E156G (88.82%)
+S:F157- (88.89%)
+S:R158- (89.04%)
+S:A222V (22.22%)
+S:L452R (99.78%)
+S:T478K (98.54%)
+S:D614G (99.78%)
+S:P681R (98.98%)
+S:D950N (73.98%)
+```
+## Variants in the spike mutations
+
 The Delta Variant has additional spike mutations at positions `S:T19R`, `S:R158G`, `S:T478K`, and `S:D950N`. Additionally, it has a deletion at positions `S:E156-` and `S:F157-`. Many sequences in `Variant21A(Delta)` also have a deletion at positions `ORF8:D119- and ORF8:F120-.`.
 
 These sequences therefore have mutations in the N-terminal domain, receptor binding domain (RBD), and furin cleavage site of the spike protein, which could impact a variety of antibodies. In order to determine how transmissble Delta is, one way of doing so is looking at the furin cleavage site of the spike protein, which could impact a variety of antibodies.
