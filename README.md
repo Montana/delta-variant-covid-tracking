@@ -11,7 +11,7 @@ The Pango lineage `B.1.617` includes both `Variant21B(Kappa)` and its sister lin
 
 ![Alt Text](21A.Delta.gif)
 
-
+## Growth
 
 |                                  | first_seq   |   num_seqs | last_seq   |
 |:---------------------------------|:------------|-----------:|:-----------|
