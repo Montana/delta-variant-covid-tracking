@@ -56,7 +56,7 @@ S:D950N (73.98%)
 ```
 ## Variants in the spike mutations
 
-The Delta Variant has additional spike mutations at positions `S:T19R`, `S:R158G`, `S:T478K`, and `S:D950N`. Additionally, it has a deletion at positions `S:E156-` and `S:F157-`. Many sequences in `Variant21A(Delta)` also have a deletion at positions `ORF8:D119- and ORF8:F120-.`.
+The Delta Variant has additional spike mutations at positions `S:T19R`, `S:R158G`, `S:T478K`, and `S:D950N`. Additionally, it has a deletion at positions `S:E156-` and `S:F157-`. Many sequences in `Variant21A(Delta)` also have a deletion at positions `ORF8:D119-` and `ORF8:F120-.`.
 
 These sequences therefore have mutations in the N-terminal domain, receptor binding domain (RBD), and furin cleavage site of the spike protein, which could impact a variety of antibodies. In order to determine how transmissble Delta is, one way of doing so is looking at the furin cleavage site of the spike protein, which could impact a variety of antibodies.
 
