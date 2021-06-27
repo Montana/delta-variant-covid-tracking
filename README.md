@@ -188,3 +188,10 @@ such as differences in viral load, viral shedding or duration of infection;
 * In vitro studies of neutralisation to assess immune escape potential using convalescent serum and serum
 from vaccinated individuals;
 * Investigation and monitoring of reinfection and breakthrough infections.
+
+## Immune escape 
+
+Delta is predominant and all analyses find that it has a very substantial growth advantage. The observed high growth rate is most likely to
+be due to a combination of place based context, transmissibility and immune escape. 
+
+_Source_: [UK Government](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/991135/3_June_2021_Risk_assessment_for_SARS-CoV-2_variant_DELTA.pdf)
