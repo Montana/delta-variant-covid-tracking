@@ -12,7 +12,7 @@ T478K, D614G, P681R, D950N, and B.1.617.3 S: T19R, L452R, E484Q, D614G, P681R```
 
 ## Origins 
 
-The Pango lineage `B.1.617` includes both `Variant21B(Kappa)` and its sister lineage `Variant21A(Delta)`. `B.1.617` was first detected in late 2020 in India, and has appeared to expand rapidly.
+The Pango lineage `B.1.617` includes both `Variant21B(Kappa)` and its sister lineage `Variant21A(Delta)`. `B.1.617` was first detected in late 2020 in India, and has appeared to expand rapidly. Accumulating evidence suggests that B.1.617 lineage variants are more transmissible and perhaps more lethal than B.1.1.7 (a.k.a. alpha variant), which had been a dominant strain in Indian population before the arrival of second wave.
 
 
 ![Alt Text](21A.Delta.gif)
