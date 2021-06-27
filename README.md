@@ -81,6 +81,6 @@
 | Myanmar                          | 2021-06-01  |          4 | 2021-06-01 |
 | Kuwait                           | 2021-06-03  |          1 | 2021-06-03 |
 
-_Sources: CoVariants, CDC, My own backports, own ground reports).
+_Sources: CoVariants, CDC, My own backports, own ground reports)._
 
 <img width="1127" alt="Screen Shot 2021-06-26 at 11 23 45 PM" src="https://user-images.githubusercontent.com/20936398/123535015-16df2400-d6d6-11eb-802a-0d43a7ce1533.png">
