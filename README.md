@@ -4,6 +4,12 @@ The Delta Variant has additional spike mutations at positions `S:T19R`, `S:R158G
 
 These sequences therefore have mutations in the N-terminal domain, receptor binding domain (RBD), and furin cleavage site of the spike protein, which could impact a variety of antibodies. In order to determine how transmissble Delta is, one way of doing so is looking at the furin cleavage site of the spike protein, which could impact a variety of antibodies.
 
+## Sub lineages of Delta 
+
+The sub-lineages contained lineage defining spike mutations: ```B.1.617.1, S: T95I, G142D, E154K, L452R,
+E484Q, D614G, P681R, Q1071H, B.1.617.2 S: T19R, G142D, 156del, 157del, R158G, L452R,
+T478K, D614G, P681R, D950N, and B.1.617.3 S: T19R, L452R, E484Q, D614G, P681R```. 
+
 ## Origins 
 
 The Pango lineage `B.1.617` includes both `Variant21B(Kappa)` and its sister lineage `Variant21A(Delta)`. `B.1.617` was first detected in late 2020 in India, and has appeared to expand rapidly.
