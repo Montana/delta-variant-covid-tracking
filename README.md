@@ -1,5 +1,8 @@
 # COVID-19: The Delta Variant
 
+
+["These results identify B.1.617.2 as an immune evasion variant with increased capacity to enter and fuse lung cells."](https://www.biorxiv.org/content/10.1101/2021.06.23.449568v1)
+
 <img width="298" alt="Screen Shot 2021-06-27 at 12 33 49 AM" src="https://user-images.githubusercontent.com/20936398/123536517-8b6a9080-d6df-11eb-9b8e-25a810fc3220.png">
 
 _Upwards trend in Israel_ 
