@@ -1,2 +1,3 @@
+os: freebsd
 language: generic 
 services: docker
