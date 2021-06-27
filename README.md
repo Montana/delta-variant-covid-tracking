@@ -155,7 +155,7 @@ The Pango lineage `B.1.617` includes both `Variant21B(Kappa)` and its sister lin
 | Myanmar                          | 2021-06-01  |          4 | 2021-06-01 |
 | Kuwait                           | 2021-06-03  |          1 | 2021-06-03 |
 
-_Sources: CoVariants, CDC, My own backports, own ground reports)._
+(_Sources: CoVariants, CDC, My own backports, own ground reports._)
 
 ## Growth in the US
 
