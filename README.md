@@ -72,7 +72,7 @@ The Pango lineage `B.1.617` includes both `Variant21B(Kappa)` and its sister lin
 
 ![Alt Text](21A.Delta.gif)
 
-## Growth
+## International growth
 
 |                                  | first_seq   |   num_seqs | last_seq   |
 |:---------------------------------|:------------|-----------:|:-----------|
@@ -151,6 +151,10 @@ The Pango lineage `B.1.617` includes both `Variant21B(Kappa)` and its sister lin
 | Kuwait                           | 2021-06-03  |          1 | 2021-06-03 |
 
 _Sources: CoVariants, CDC, My own backports, own ground reports)._
+
+## Growth in the US
+
+Data from `Helix2` on nearly 20,000 samples sequenced since April suggest that the Delta variant is spreading faster in US counties where less than 30% of residents have been fully vaccinated, compared to the counties with vaccination rates above that threshold.
 
 <img width="1127" alt="Screen Shot 2021-06-26 at 11 23 45 PM" src="https://user-images.githubusercontent.com/20936398/123535015-16df2400-d6d6-11eb-802a-0d43a7ce1533.png">
 
