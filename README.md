@@ -168,3 +168,9 @@ Data from `Helix2` on nearly 20,000 samples sequenced since April suggest that t
 <img width="1127" alt="Screen Shot 2021-06-26 at 11 23 45 PM" src="https://user-images.githubusercontent.com/20936398/123535015-16df2400-d6d6-11eb-802a-0d43a7ce1533.png">
 
 _Dist_ per country. (Delta Variant). 
+
+## The vaccine chart 
+
+![image](https://user-images.githubusercontent.com/20936398/123537763-f0c18000-d6e5-11eb-981f-9f3965afec74.png)
+
+From this information from the CDC you can see we will not be making President Biden's July 4th vision of 70% of the population in the United States vaccinated.
