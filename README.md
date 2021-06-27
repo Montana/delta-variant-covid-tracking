@@ -181,11 +181,11 @@ _This chart is counting Tozinameran (BioNTech/Pfizer) and Moderna, also known as
 
 Key information that will improve the understanding and characterisation of the risk posed by Delta VOC includes:
 
-* Further epidemiological characterisation of Delta VOC, particularly for non-travel related cases;
+* Further epidemiological characterization of Delta VOC, particularly for non-travel related cases;
 * Improved transmissibility estimates, including information on the mechanism for increased transmissibility
 such as differences in viral load, viral shedding or duration of infection;
 * Clinical characterization of cases;
-* In vitro studies of neutralisation to assess immune escape potential using convalescent serum and serum
+* In vitro studies of neutralization to assess immune escape potential using convalescent serum and serum
 from vaccinated individuals;
 * Investigation and monitoring of reinfection and breakthrough infections.
 
